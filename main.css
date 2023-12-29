@@ -15,11 +15,16 @@ body {
 } */
 a {
   text-decoration: none;
-  font-size: 24px;
-  color: rgb(190, 238, 15);
+  font-size: 30px;
+  color: rgb(248, 248, 250);
   position: absolute;
-  bottom: 5%;
+  bottom: 7%;
   /* right: 5%; */
-  left: 2%;
+  left: 83%;
   z-index: 100;
+  letter-spacing: 0.25rem;
+  text-shadow: 2px 2px 15px black;
+  font-family: 'Gowun Dodum', sans-serif;
+  font-weight: normal;
+
 }
